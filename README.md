@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React's useEffect hook where the cleanup function fails to correctly clear an interval, leading to memory leaks. The `bug.js` file showcases the incorrect implementation, while `bugSolution.js` provides the corrected version.
